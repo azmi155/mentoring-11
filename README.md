@@ -2,7 +2,7 @@
 # RULES TUGAS
 - [x] < nama > _ < nama materi > .java
 
-| Name  | Age |
-| ----- | --- |
-| Bob   | 27  |
-| Alice | 23  |
+| Nama  | Kelas | Abesn |
+| ----- | ----- | ----- |
+| Bob   |   27  | - [x] |
+| Alice |   23  |
