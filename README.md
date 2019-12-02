@@ -1,3 +1,3 @@
 # mentoring-11
 # RULES TUGAS
-[v] <nama>_<materi>.java
+[] <nama>_<materi>.java
