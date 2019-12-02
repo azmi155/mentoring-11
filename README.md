@@ -1,3 +1,3 @@
 
 # RULES TUGAS
-### [X] < nama > _ < nama materi > .java
+### [x] < nama > _ < nama materi > .java
