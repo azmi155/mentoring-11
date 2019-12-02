@@ -2,7 +2,8 @@
 # RULES TUGAS
 - [x] < nama > _ < nama materi > .java
 
-| Nama  | Absen |
-| ----- | --- |
-|  TEST  | II  |
-| TEST | II  |
+| No | Nama  | Absen |
+| -- | ----- | --- |
+| 1  |  Nama1 | II  |
+| 2  | Nama2 | II  |
+| 3  |  Nama3 | II |
