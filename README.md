@@ -1,6 +1,6 @@
 # MOHON DI BACA
 ## Rules Tugas
-'Nama File di Awali dengan nama kemudian nama Materi yang di pisah oleh Underscore yang kemudian di akhiri dengan Extention *.java*
+' Nama File di Awali dengan nama kemudian nama Materi yang di pisah oleh Underscore yang kemudian di akhiri dengan Extention *.java*
 ```java
 
 <namaAnda>_<nama materi >.java
