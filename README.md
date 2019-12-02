@@ -10,4 +10,4 @@
 
 
 # Materi bisa di cari deng klik judul materi di bawah ini!!!
-[Java #01: Persiapan Awal yang Harus dilakukan untuk Pemrograman Java](https://www.petanikode.com/java-linux/)
+1. [Java #01: Persiapan Awal yang Harus dilakukan untuk Pemrograman Java](https://www.petanikode.com/java-linux/)
