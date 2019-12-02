@@ -1,7 +1,7 @@
-
+# MOHON DI BACA
 ```java
-# RULES TUGAS
-- [x] < nama > _ < nama materi > .java
+
+<namaAnda>_<nama materi >.java
 ```
 
 | No | Nama  | Absen |
