@@ -4,5 +4,5 @@
 
 | Nama  | Kelas | Abesn |
 | ----- | ----- | ----- |
-| Bob   |   27  | - [x] |
+| Bob   |   27  | -[x] |
 | Alice |   23  |
