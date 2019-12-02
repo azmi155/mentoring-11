@@ -2,7 +2,8 @@
 # RULES TUGAS
 - [x] < nama > _ < nama materi > .java
 
-| Nama  | Kelas | Abesn |
-| ----- | ----- | ----- |
-| Bob   |   27  | -[x] |
+|       |       |               Abesn                   |  
+| Nama  | Kelas | ------------------------------------- |
+|       |       | Pertemuan 1 | Pertemuan 2 |           |
+| ----  | ----- |             |             |           | 
 | Alice |   23  |
