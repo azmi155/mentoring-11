@@ -1,9 +1,11 @@
 # MOHON DI BACA
+## Rules Tugas
 ```java
 
 <namaAnda>_<nama materi >.java
 ```
 
+## Absen
 | No | Nama  | Absen |
 | -- | ----- | --- |
 | 1  |  Nama1 | II  |
