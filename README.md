@@ -14,7 +14,7 @@
 | 3  |  Nama3 | II |
 
 
-# Materi bisa di cari deng klik judul materi di bawah ini!!!
+# Materi bisa di cari dengan klik judul materi di bawah ini!!!
 1. [Java #01: Persiapan Awal yang Harus dilakukan untuk Pemrograman Java](https://www.petanikode.com/java-linux/)
 2. [Java #02: Membuat Program Java Pertama](https://www.petanikode.com/java-program-pertama/)
 3. [Java #03: Memahami Struktur dan Arturan Penulisan Sintaks Java](https://www.petanikode.com/java-sintaks/)
